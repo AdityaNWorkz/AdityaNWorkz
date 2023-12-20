@@ -20,7 +20,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 ---
-  ![Snake animation](https://github.com/AdityaNarayan2000/AdityaNarayan2000/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AdityaNWorkz/AdityaNWorkz/blob/output/github-contribution-grid-snake.svg)
 
 ### 🛠 &nbsp;Languages :
 
