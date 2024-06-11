@@ -53,6 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 ### 🔥 &nbsp; My Stats : 
  `<p align="center" style="text-align:center;">
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNWorkz&theme=dark&theme=vision-friendly-dark)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaNWorkz&theme=light&theme=vision-friendly-dark)
 </p>
 
